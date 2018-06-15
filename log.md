@@ -42,10 +42,13 @@ Entry template
 
 Duolingo estudiar el nino, la nina, un hombre, una mujer y yo soy.  
 
+Yo escuchando Pimsleur, yo aprendido un poco:  "Hola, entiende castellano? Si, un poco. 
+Es usted Norte Americano? Si, soy Norte Americano, y hablo ingles. No, entiendo castellano." 
+
 Verbos españoles de hoy es ir, hablar, estudiar
 
-ir - To go
-hablar - To speak
-estudiar - To study
+- ir - To go
+- hablar - To speak
+- estudiar - To study
 
 [Tabla de contenido](#toc)

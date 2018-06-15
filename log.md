@@ -1,0 +1,51 @@
+# 100 Days Of Spanish - Log
+
+<a name="toc"></a>
+### Tabla de contenido
+|Día|Enfoque|Día|Enfoque|
+|:---:|:-----:|:---:|:-----:|
+|[Día 1](#day-1) **06/14/2018**| Duolingo Intro / Pimsleur S1-L1 / Verbs: ir, hablar, estudiar |
+<!--- 
+|[Día 1](#day-1) **--/--/--**| Topics |[Día 2](#day-2) **--/--/--**| Topics |
+|[Day 1](#day-1) **--/--/--**| Topics |[Day 2](#day-2) **--/--/--**| Topics |
+--->
+
+<!---
+Entry template
+
+----------
+<a name="day-1"></a>
+### Día 1: Junio 14, 2018  
+
+**El enfoque de hoy**: [Fill in]
+
+**Detalles**:
+    [Fill in or skip]
+
+**Reflexión:**  [Fill in or skip]
+
+![Day 1 Image](https://raw.githubusercontent.com/mikekwright/100-days-of-code/master/images/day1_image.png)
+
+**Ejemplos**: [Fill in with some examples if any] 
+
+[Tabla de contenido](#toc)
+
+--->
+
+----------
+<a name="day-1"></a>
+### Día 1: Junio 14, 2018  
+
+**El enfoque de hoy**: Duolingo Intro / Pimsleur S1-L1 / Verbs: ir, hablar, estudiar
+
+**Detalles**:
+
+Duolingo estudiar el nino, la nina, un hombre, una mujer y yo soy.  
+
+Verbos españoles de hoy es ir, hablar, estudiar
+
+ir - To go
+hablar - To speak
+estudiar - To study
+
+[Tabla de contenido](#toc)

@@ -5,6 +5,8 @@
 |Día|Enfoque|Día|Enfoque|
 |:---:|:-----:|:---:|:-----:|
 |[Día 1](#day-1) **06/14/2018**| Duolingo Intro / Pimsleur S1-L1 / Verbs: ir, hablar, estudiar |
+|[Día 2](#day-2) **06/15/2018**| Duolingo Intro 2 / Pimsleur S1-L2 / Verbs: comer, beber |
+
 <!--- 
 |[Día 1](#day-1) **--/--/--**| Topics |[Día 2](#day-2) **--/--/--**| Topics |
 |[Day 1](#day-1) **--/--/--**| Topics |[Day 2](#day-2) **--/--/--**| Topics |
@@ -50,5 +52,20 @@ Verbos españoles de hoy es ir, hablar, estudiar
 - ir - To go
 - hablar - To speak
 - estudiar - To study
+
+[Tabla de contenido](#toc)
+
+----------
+<a name="day-2"></a>
+### Día 2: Junio 15, 2018  
+
+**El enfoque de hoy**: Duolingo Intro 2 / Pimsleur S1-L2 / Verbs: comer, beber
+
+**Detalles**:
+    I was looking for material that I could listen to, not have to fully understand, but just to
+    get used to the way a native speaks to train my ear.  
+
+**Reflexión:**  It was a good day, I am going to focus on finding podcasts or other
+sources of Spanish that I can use, as well as finding a good grammer book.  
 
 [Tabla de contenido](#toc)

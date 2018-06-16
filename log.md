@@ -6,6 +6,7 @@
 |:---:|:-----:|:---:|:-----:|
 |[Día 1](#day-1) **06/14/2018**| Duolingo Intro / Pimsleur S1-L1 / Verbs: ir, hablar, estudiar |
 |[Día 2](#day-2) **06/15/2018**| Duolingo Intro 2 / Pimsleur S1-L2 / Verbs: comer, beber |
+|[Día 3](#day-3) **06/16/2018**| Duolingo Intro 3/3 - 6/6 - 2/9 / Pimsleur S1-L3 / Verbs: ir, comer, beber |
 
 <!--- 
 |[Día 1](#day-1) **--/--/--**| Topics |[Día 2](#day-2) **--/--/--**| Topics |
@@ -67,5 +68,21 @@ Verbos españoles de hoy es ir, hablar, estudiar
 
 **Reflexión:**  It was a good day, I am going to focus on finding podcasts or other
 sources of Spanish that I can use, as well as finding a good grammer book.  
+
+[Tabla de contenido](#toc)
+
+----------
+<a name="day-3"></a>
+### Día 3: Junio 16, 2018  
+
+**El enfoque de hoy**: Duolingo Intro (L1 3/3 to L3 2/9) / Pimsleur S1-L3 / Verbs: ir, beber, comer
+
+**Detalles**:
+    Yo soy norte Americano, de donde Utah.  Yo bebo aqua y leche y Mtn Dew. Hablo espanol un poco. 
+    Yo como manzana y pan.  Soy un hombre no es una mujer.  
+
+**Reflexión:**  I really enjoy Duolingo and hope that I can continue to use it to improve my overall
+skills.  I am also trying to find a good book, I sent a message on twitter to try to find a good book
+but haven't had a reply yet.   
 
 [Tabla de contenido](#toc)

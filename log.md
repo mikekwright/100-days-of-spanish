@@ -2,7 +2,7 @@
 
 <a name="toc"></a>
 ### Tabla de contenido
-|Día|Enfoque|Día|Enfoque|
+|Día|Enfoque|
 |:---:|:-----:|
 |[Día 1](#day-1) **06/14/2018**| Duolingo Intro / Pimsleur S1-L1 / Verbs: ir, hablar, estudiar |
 |[Día 2](#day-2) **06/15/2018**| Duolingo Intro 2 / Pimsleur S1-L2 / Verbs: comer, beber |

@@ -9,6 +9,7 @@
 |[Día 3](#day-3) **06/16/2018**| Duolingo Intro 3/3 - 6/6 - 2/9 / Pimsleur S1-L3 / Verbs: ir, comer, beber |
 |[Día 4](#day-4) **06/17/2018**| Duolingo Intro - Level 4 / Practice grammer Chapter 1 / Verbs: habler |
 |[Día 5](#day-5) **06/18/2018**| Duolingo Quite a few lessons / Pimsleur S1-L4 / Verbs: pagar |
+|[Día 6](#day-6) **07/10/2018**| Back from Vacation - Duolingo status / Verbs: leer |
 
 ----------
 <a name="day-1"></a>
@@ -87,6 +88,20 @@ for now I am content.
 
 **Detalles**:
     Studies some of the travel nd shopping items from duolingo. 
+
+[Tabla de contenido](#toc)
+
+----------
+<a name="day-6"></a>
+### Día 6: Julio 10, 2018  
+
+**El enfoque de hoy**: Back from Vacation / Lots of Duolingo Catchup / Verbs: leer
+
+**Detalles**:
+    So I was on vacation and traveling, but was still working on Duolingo (not a full
+    hour everyday sadly).  I am currently to level 24 and have _Intro_, _Phrases_, and   
+    _Travel_ sections as well as started _Restaurant_, _Family_, _Shopping_, _School_, 
+    _People_.  
 
 [Tabla de contenido](#toc)
 

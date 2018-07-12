@@ -4,12 +4,13 @@
 ### Tabla de contenido
 |Día|Enfoque|
 |:---:|:-----:|
-|[Día 1](#day-1) **06/14/2018**| Duolingo Intro / Pimsleur S1-L1 / Verbs: ir, hablar, estudiar |
-|[Día 2](#day-2) **06/15/2018**| Duolingo Intro 2 / Pimsleur S1-L2 / Verbs: comer, beber |
-|[Día 3](#day-3) **06/16/2018**| Duolingo Intro 3/3 - 6/6 - 2/9 / Pimsleur S1-L3 / Verbs: ir, comer, beber |
-|[Día 4](#day-4) **06/17/2018**| Duolingo Intro - Level 4 / Practice grammer Chapter 1 / Verbs: habler |
-|[Día 5](#day-5) **06/18/2018**| Duolingo Quite a few lessons / Pimsleur S1-L4 / Verbs: pagar |
-|[Día 6](#day-6) **07/10/2018**| Back from Vacation - Duolingo status / Verbs: leer |
+|[Día 1:](#day-1) **06/14/2018**| Duolingo Intro / Pimsleur S1-L1 / Verbs: ir, hablar, estudiar |
+|[Día 2:](#day-2) **06/15/2018**| Duolingo Intro 2 / Pimsleur S1-L2 / Verbs: comer, beber |
+|[Día 3:](#day-3) **06/16/2018**| Duolingo Intro 3/3 - 6/6 - 2/9 / Pimsleur S1-L3 / Verbs: ir, comer, beber |
+|[Día 4:](#day-4) **06/17/2018**| Duolingo Intro - Level 4 / Practice grammer Chapter 1 / Verbs: habler |
+|[Día 5:](#day-5) **06/18/2018**| Duolingo Quite a few lessons / Pimsleur S1-L4 / Verbs: pagar |
+|[Día 6:](#day-6) **07/10/2018**| Back from Vacation - Duolingo status / Verbs: leer |
+|[Día 7:](#day-7) **07/10/2018**| Duolingo School / People |
 
 ----------
 <a name="day-1"></a>
@@ -105,6 +106,17 @@ for now I am content.
 
 [Tabla de contenido](#toc)
 
+----------
+<a name="day-7"></a>
+### Día 7: Julio 11, 2018  
+
+**El enfoque de hoy**: Duolingo School / People
+
+**Detalles**:
+    Today was a very simple day, just spent the hour working on the two sections (and practice)
+    in duolingo.  
+
+[Tabla de contenido](#toc)
 
 
 <!---
